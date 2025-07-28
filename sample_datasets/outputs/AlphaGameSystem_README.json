@@ -1,0 +1,300 @@
+{
+  "title": "Alpha Game System",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Alpha Game System",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Snake",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Minesweeper",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Tetris",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Sudoku",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Features",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Snake",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Minesweeper",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Tetris",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Sudoku",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Installation",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Alpha Game System",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Clone the repository(source code):",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Navigate to the project directory:",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Open the project in IntelliJ IDEA",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Usage",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Run the",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "AlphaGameScreen",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Enter",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Enjoy",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Dependencies",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Project Structure",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Contributing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "\u0000 Made with Contributions",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Team Contributions",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Aditya Raj (2347012)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Feature Additions:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "\"Game Over\" screen",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Snake game",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Food logic",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Game panel mechanics",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Documentation:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "README.md",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Maintenance and Improvements:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Pratyay Majumder (2346019)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Feature Additions:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Minesweeper game",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Documentation:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "README.md",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "UI/UX Enhancements:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Collaboration:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Harsh Martin Topno (2306187)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Game Development:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Sound Integration:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Code Integration:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Tetris package",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "AlphaGameScreen",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Bug Fixes and Updates:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "AlphaGameScreen",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Anshumaan Gangwar (2306207)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Game Development:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Sudoku game",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "UI/UX Enhancements:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Collaboration:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Development Timeline",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PratyayforDS:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "README.md",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Sudoku game",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "\u0000 License",
+      "page": 4
+    }
+  ]
+}

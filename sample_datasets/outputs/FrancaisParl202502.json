@@ -1,0 +1,2870 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Technical Report",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Trinity College Dublin",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "257",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1,656",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Le vocabulaire du français parlé",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Rapport de recherche",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Version 01",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Février 2025",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Résumé",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Abstract",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Sommaire",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1. 2 Les normes de dépouillement",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2. 1 Effectifs, rangs, fréquences et vocables caractéristiques",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2. 2 Une collection d’événements rares et inégalement répartis",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3. 1 Poids des catégories grammaticales dans les deux genres",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3. 2 Calcul des fréquences par catégories grammaticales",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3. 3 Calcul des vocables caractéristiques",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4. 1 Recensement des verbes usuels",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4. 2 Les verbes caractéristiques de la conversation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5. 1 Les deux types de combinaisons des verbes",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5. 4 La singularité de \"avoir été\" dans le français parlé",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5. 5 Les principales combinaisons verbe + verbe infinitif",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "8. 2 Devant ou derrière le nom ?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "9. 1 Les déterminants",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "9. 2 Les prépositions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "9. 3 Les prépositions dans les groupes nominaux complexes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "9. 4 Les conjonctions de coordination",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1. Le corpus du français parlé",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2. Le corpus du français écrit",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3. Les 1420 noms les plus utilisés dans le français parlé",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4. Les 753 adjectifs les plus utilisés dans le français parlé (classement alphabétique)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Santa-Barbara (https://www.linguistics.ucsb.edu/research/santa-barbara-corpus/). A l’heure où",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Partie I.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Corpus et méthodes",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 1",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Corpus et normes de dépouillement",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "1. 1 Deux corpus",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "1. 2 Normes de dépouillement",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 2.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Statistiques",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "2. 1 Effectifs, rangs, fréquences et vocables caractéristiques",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "2. 2 Une collection d’événements rares et inégalement répartis",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "et (cj)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ne (adv)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "qui (pro)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "faire (v)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "y (pro)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "mais (cj)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ils (pro)",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 3",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Les parties du discours",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "3. 1 Poids des catégories grammaticales dans les deux genres",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Verbes",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "191. 4",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "173. 8",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "+ 10.1",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "2. 1",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "2. 4",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "4. 0",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "3. 8",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "112. 2",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "56. 2",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "17. 6",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "37. 6",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Noms propres",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "8. 2",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "27. 7",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "- 70.4",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Noms communs",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "130. 0",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "176. 1",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "- 26.1",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Adjectifs",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "33. 8",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "52. 5",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "- 35.6",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Pronoms",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "196. 5",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "144. 8",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "+ 35.7",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Determinants",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "124. 4",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "158. 7",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "- 21.6",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Adverbes",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "120. 8",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "76. 4",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "+ 58.1",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Prépositions",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "108. 9",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "138. 2",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "- 21.2",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Coordinations",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "31. 0",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "26. 4",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "+ 17.2",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Subordination",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "39. 9",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "22. 3",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "+ 78.7",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "548. 6",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "417. 4",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "436. 3",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "579. 6",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "3. 2 Calcul des fréquences par catégories grammaticales",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "3. 3 Calcul des vocables caractéristiques",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "Partie II.",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Le groupe du verbe",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 4.",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Les verbes caractéristiques du français parlé",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "4. 1 Prépondérance du présent",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "4. 2 Recensement des verbes usuels du français parlé",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "arriver",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "devoir",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "venir",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "donner",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "travailler",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "payer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "partir",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "changer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "voter",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "connaître",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "demander",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "essayer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "vivre",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "rester",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "comprendre",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "entendre",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "regarder",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "aimer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "marcher",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "chauffer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "appeler",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "rentrer",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "sortir",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "répondre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "remettre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "tomber",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "tourner",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "continuer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "exister",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "fermer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "perdre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "rencontrer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "couper",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "amener",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "coûter",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "dépendre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "finir",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "apporter",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "consommer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "vendre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "concerner",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "présenter",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "lire",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "allumer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "recevoir",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "apprendre",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "oublier",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "suffire",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "améliorer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "tirer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "respecter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "enlever",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "battre",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "boire",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "éteindre",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "reconnaître",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "prévoir",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "gêner",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "éviter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "compter",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "descendre",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "participer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "développer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "marquer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "tromper",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "téléphoner",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "durer",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "ressentir",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "réfléchir",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "4. 3 Les verbes caractéristiques de la conversation",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 5.",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "5. 1 Les deux types de combinaisons des verbes",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "avoir",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "être",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être/avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être/avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "13e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "41e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "36e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "93e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "61e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "172e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "169e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "340e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "208e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "481e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "491e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "830e",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "passé avec",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "avoir",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "être",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "5. 2 L’auxiliaire \"avoir\"",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "5. 3 L’auxiliaire \"être\"",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "venir",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "arriver",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "obliger",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "passer",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "partir",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "dire",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "aller",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "mettre",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "rester",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "rendre",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "prendre",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "revenir",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "donner",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "rentrer",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "concerner",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "compliquer",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "ouvrir",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "finir",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "régler",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "tomber",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "satisfaire",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "élire",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "devenir",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "5. 4 La singularité de \"avoir été\" dans le français parlé",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "5. 5 Les principales combinaisons verbe + verbe infinitif",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "vouloir dire",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir dire",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir parler",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir passer",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller donner",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "venir voir",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "savoir faire",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "vouloir être",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir arriver",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "vouloir avoir",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "falloir savoir",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller travailler",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "faire venir",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller changer",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir payer",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller arriver",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "vouloir aller",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller essayer",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "faire faire",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "aller pouvoir",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "1. Avec le verbe modalisé au participe passé :",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "2. Avec le verbe modalisé à l’infinitif.",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 6.",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "Les satellites du verbe",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "6. 1 Les pronoms",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "nous autre",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "lequel",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "personne",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "cela",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "celui-là",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "dont",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "même",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "certain",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "quel",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "6. 2 Les adverbes",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "pas",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "plus",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "oui",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "non",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "bon",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "bien",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "même",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "peu",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "alors",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "puis",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "actuellement",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "complètement",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "là-dessus",
+      "page": 49
+    },
+    {
+      "level": "H1",
+      "text": "6. 3 Les conjonctions de subordination",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "parce que",
+      "page": 50
+    },
+    {
+      "level": "H1",
+      "text": "Partie III.",
+      "page": 52
+    },
+    {
+      "level": "H1",
+      "text": "Le groupe du nom",
+      "page": 52
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 7.",
+      "page": 53
+    },
+    {
+      "level": "H1",
+      "text": "Les noms communs",
+      "page": 53
+    },
+    {
+      "level": "H1",
+      "text": "7. 1 Les noms communs du français parlé",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "chauffage",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "façon",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "travail",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "moment",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "côté",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "femme",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "année",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "personne",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "mois",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "enfant",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "maison",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "truc",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "exemple",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "négociation",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "rapport",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "tout",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "franc",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "question",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "vie",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "partie",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "gauche",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "chambre",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "journée",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "température",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "début",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "chaleur",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "eau",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "droit",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "moyen",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "hiver",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "installation",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "formation",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "intérêt",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "sens",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "départ",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "pièce",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "comité",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "service",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "emploi",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "changement",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "appareil",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "nuit",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "candidat",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "confort",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "fond",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "étude",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "fille",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "nombre",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "salaire",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "ville",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "instant",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "état",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "sujet",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "confiance",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "programme",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "voiture",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "plan",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "chômage",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "mesure",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "cadre",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "route",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "mal",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "type",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "ouvrier",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "région",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "été",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "Dans la dernière colonne, à part",
+      "page": 57
+    },
+    {
+      "level": "H1",
+      "text": "7. 2 Les principaux thèmes",
+      "page": 57
+    },
+    {
+      "level": "H1",
+      "text": "7. 3 L’intégration du nom dans le syntagme verbal",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "rang",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir besoin",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir envie",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "rendre compte",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "faire partie",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "faire attention",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir peur",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "donner envie",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "être dommage",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "faire confiance",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "faire peur",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir droit",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "tenir compte",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir raison",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "avoir mal",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "être femme",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "être locataire",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "dire bonjour",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "être artisan",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "avoir conscience",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "trouver",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "connaître",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "voter",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "savoir",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "aller",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "demander",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "commencer",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "entendre",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "payer",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "rentrer",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "vouloir",
+      "page": 62
+    },
+    {
+      "level": "H2",
+      "text": ", etc. Comme synonyme de",
+      "page": 63
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 8",
+      "page": 64
+    },
+    {
+      "level": "H1",
+      "text": "Les adjectifs",
+      "page": 64
+    },
+    {
+      "level": "H1",
+      "text": "8. 1 Les adjectifs usuels du français parlé",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "bon",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "sûr",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "électrique",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "important",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "grand",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "pareil",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "seul",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "social",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "politique",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "gros",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "chaud",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "différent",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "difficile",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "dernier",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "nouveau",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "froid",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "général",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "raisonné",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "normal",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "possible",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "cher",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "intéressant",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "clair",
+      "page": 65
+    },
+    {
+      "level": "H2",
+      "text": "nette que pour les noms. Cependant,",
+      "page": 66
+    },
+    {
+      "level": "H1",
+      "text": "8. 2 Devant ou derrière le nom ?",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "bon idée",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit ville",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit radiateur",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "seul coup",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "plein pot",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "gros truc",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand surface",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "vieux maison",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit appareil",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "long terme",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "ancien système",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "plein heure",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "vrai problème",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon partie",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "plein sud",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon raison",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand ligne",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bas salaire",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "vrai niveau",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit peur",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon qualité",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon solution",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit salaire",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand entreprise",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "dernier élection",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "dernier facture",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand monde",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit bout",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "dernier négociation",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand principe",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand ville",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bas âge",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit moyen",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "mis part",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit boîtier",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "plein milieu",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit coup",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "vieux pays",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "seul raison",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit maison",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "haut direction",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon côté",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "plein hiver",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "juste milieu",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon femme",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon question",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit commerçant",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon santé",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon moment",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit détail",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand public",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon heure",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit dommage",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "nombreux année",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "seul truc",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon volonté",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit boîte",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "court terme",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "gros travail",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit chauffage",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "grand partie",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit gens",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "prochain élection",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "seul fois",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "seul problème",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "vrai vie",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "petit bouton",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "bon température",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "meilleur",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "moindre",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "vieux",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "joli",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "beau",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "propre",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "prochain",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "blanc",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "juste",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "pareil",
+      "page": 69
+    },
+    {
+      "level": "H1",
+      "text": "Chapitre 9",
+      "page": 70
+    },
+    {
+      "level": "H1",
+      "text": "Les mots outils dans le groupe du nom",
+      "page": 70
+    },
+    {
+      "level": "H1",
+      "text": "9. 1 Les déterminants dans les français parlé et écrit",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "trois",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "notre",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "quatre",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "leur",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "même",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "cinq",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "mille",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "dix",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "certain",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "premier",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "huit",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "trente",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "neuf",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "sept",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "tel",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "soixante",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "chaque",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "quinze",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "quel",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "un (num)",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "aucun",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "plusieurs",
+      "page": 71
+    },
+    {
+      "level": "H1",
+      "text": "9. 2 Les prépositions",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "dans",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "par",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "sur",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "avec",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "voilà",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "après",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "avant",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "chez",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "entre",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "sans",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "près",
+      "page": 73
+    },
+    {
+      "level": "H1",
+      "text": "9. 3 Les prépositions dans les groupes nominaux complexes",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "pouvoir d'achat",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "quart d'heure",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "besoin d'électricité",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "création d'emploi",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "état d'esprit",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "sécurité d'emploi",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "problème d'argent",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "agent d'accueil",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "chef d'entreprise",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "courant d'air",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "facture d'électricité",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "chef d'agence",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "liste d'appel",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "manque d'argent",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "niveau d'étude",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "mois d'hiver",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "nombre d'année",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "coup d'œil",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "chef d'état",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "débat d'idée",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "secteur d'activité",
+      "page": 76
+    },
+    {
+      "level": "H1",
+      "text": "9. 4 La coordination",
+      "page": 77
+    },
+    {
+      "level": "H2",
+      "text": "Conclusions",
+      "page": 79
+    },
+    {
+      "level": "H2",
+      "text": "G. Gougenheim et ses collaborateurs avaient utilisé les premiers magnétophones pour",
+      "page": 79
+    },
+    {
+      "level": "H1",
+      "text": "Remerciements.",
+      "page": 80
+    },
+    {
+      "level": "H1",
+      "text": "Références",
+      "page": 80
+    },
+    {
+      "level": "H2",
+      "text": "Les caractères statistiques du vocabulaire",
+      "page": 82
+    },
+    {
+      "level": "H2",
+      "text": ". Paris : Armand Colin.",
+      "page": 82
+    },
+    {
+      "level": "H2",
+      "text": "Halliday M. A. K. (1985).",
+      "page": 82
+    },
+    {
+      "level": "H2",
+      "text": ". Oxford : Oxford University Press.",
+      "page": 82
+    },
+    {
+      "level": "H2",
+      "text": "Des corpus numériques à l’analyse",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "Les Françaises et la politique",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "Grenoble : Institut d'Etude Politique.",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": ". Cham : Springer Nature.",
+      "page": 83
+    }
+  ]
+}
